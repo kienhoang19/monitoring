@@ -1,0 +1,8 @@
+Hệ thống monitoring sử dụng
+1. Prometheus
+2. Loki
+3. Grafana
+4. Node exporter
+5. backbox exporter
+6. Promtail
+--------------
